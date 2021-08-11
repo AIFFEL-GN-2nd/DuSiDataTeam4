@@ -1,4 +1,4 @@
-# Titanic - Machine Learning from Disaster
+# Bike Sharing Demand
 
 ### 필사 제출 1차 (모델링 제외)
 - [김경현](./김경현_1.ipynb)
